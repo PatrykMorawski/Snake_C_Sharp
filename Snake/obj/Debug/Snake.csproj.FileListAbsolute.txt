@@ -1,0 +1,52 @@
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\bin\Debug\Snake.exe.manifest
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\bin\Debug\Snake.application
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\obj\Debug\Snake.exe.manifest
+C:\Users\Ankred\Desktop\Gry C#\Snake\Snake\obj\Debug\Snake.application
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\bin\Debug\Snake.exe.manifest
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\bin\Debug\Snake.application
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\obj\Debug\Snake.exe.manifest
+C:\Users\Ankred\Desktop\Gry C# Java\Snake\Snake\obj\Debug\Snake.application
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Debug\Snake.exe
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Debug\Snake.pdb
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Debug\Snake.Form1.resources
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\bin\Debug\Snake.exe.manifest
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\bin\Debug\Snake.application
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\bin\Debug\Snake.exe
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\bin\Debug\Snake.pdb
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Debug\Snake.exe.manifest
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Debug\Snake.application
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\bin\Debug\Snake.exe.config
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\obj\Debug\Snake.exe
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\obj\Debug\Snake.pdb
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\bin\Debug\Snake.exe.manifest
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\bin\Debug\Snake.application
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\bin\Debug\Snake.exe
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\bin\Debug\Snake.pdb
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\obj\Debug\Snake.Form1.resources
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\obj\Debug\Snake.exe.manifest
+E:\Kopia Zapasowa Programów\Gry\Snake - C#\Snake\obj\Debug\Snake.application

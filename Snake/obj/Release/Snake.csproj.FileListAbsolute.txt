@@ -1,0 +1,7 @@
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\bin\Release\Snake.exe.config
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Release\Snake.Form1.resources
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.Cache
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Release\Snake.exe
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Release\Snake.pdb
+E:\Kopia Zapasowa Programów\Gry\Snake\Snake\obj\Release\Snake.csprojResolveAssemblyReference.cache
